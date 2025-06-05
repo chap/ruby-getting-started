@@ -1,5 +1,6 @@
 # Ruby Getting Started
 
+
 A barebones [Ruby on Rails](https://rubyonrails.org/) app, which can easily be deployed to Heroku.
 
 This application supports the tutorials for both the [Cedar and Fir generations](https://devcenter.heroku.com/articles/generations) of the Heroku platform. You can check them out here:
